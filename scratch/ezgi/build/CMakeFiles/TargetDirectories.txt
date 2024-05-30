@@ -1,0 +1,3 @@
+/home/ezgi/ns-allinone-3.41/ns-3.41/scratch/ezgi/build/CMakeFiles/ezgi.dir
+/home/ezgi/ns-allinone-3.41/ns-3.41/scratch/ezgi/build/CMakeFiles/edit_cache.dir
+/home/ezgi/ns-allinone-3.41/ns-3.41/scratch/ezgi/build/CMakeFiles/rebuild_cache.dir
